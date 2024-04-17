@@ -4,11 +4,11 @@
 Welcome to the Expense Tracker application! This Python-based tool empowers you to efficiently manage your expenses, offering a simple yet effective way to record, categorize, and analyze your spending habits. With intuitive user interfaces and robust database functionality, the Expense Tracker makes it easy to stay on top of your finances.
 
 # Features:
-Expense Recording: Seamlessly record your expenses, including item name, price, and purchase date, with just a few clicks.
-Expense Categorization: Categorize your expenses to gain insights into where your money is being spent.
-Data Analysis: Analyze your spending patterns over time through visualizations and summaries provided by the application.
-Data Export: Export your expense data for further analysis or backup purposes, ensuring your financial records are always accessible.
-User-Friendly Interface: Enjoy a user-friendly interface that prioritizes ease of use and navigation, making it suitable for users of all levels.
+- Expense Recording: Seamlessly record your expenses, including item name, price, and purchase date, with just a few clicks.
+- Expense Categorization: Categorize your expenses to gain insights into where your money is being spent.
+- Data Analysis: Analyze your spending patterns over time through visualizations and summaries provided by the application.
+- Data Export: Export your expense data for further analysis or backup purposes, ensuring your financial records are always accessible.
+- User-Friendly Interface: Enjoy a user-friendly interface that prioritizes ease of use and navigation, making it suitable for users of all levels.
 
 # How to Use:
 
@@ -45,4 +45,5 @@ For questions, issues, or feedback, please contact dhanashripatil1607@gmail.com.
 # Files:
 
 **main.py:** Contains the main application logic and user interface.
+
 **db.py:** Defines the Database class responsible for database operations.
